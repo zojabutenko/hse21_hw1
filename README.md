@@ -93,11 +93,11 @@ $ time platanus gap_close -o Poil -t 8 -c Poil_scaffold.fa -IP1 sub1.fastq.trimm
 ![Снимок экрана 2021-12-05 в 06 34 54](https://user-images.githubusercontent.com/55627796/144732475-c7141d59-3b11-4c73-8433-ee2f89463a5a.png)
 ![Снимок экрана 2021-12-05 в 06 35 27](https://user-images.githubusercontent.com/55627796/144732477-23a18f35-d6ee-4990-b965-88b536f73ef8.png)
 ![Снимок экрана 2021-12-05 в 06 35 40](https://user-images.githubusercontent.com/55627796/144732479-eadaf845-a941-4a15-9181-4461f5f5fdd8.png)
-![Снимо![Снимок экрана 2021-12-05 в 06 36 39](https://user-images.githubusercontent.com/55627796/144732483-03c4918b-4203-4a34-b96c-851610e8b74e.png)
+![Снимок экрана 2021-12-05 в 06 36 39](https://user-images.githubusercontent.com/55627796/144732483-03c4918b-4203-4a34-b96c-851610e8b74e.png)
 ![Снимок экрана 2021-12-05 в 06 36 39](https://user-images.githubusercontent.com/55627796/144732517-d252f150-dd79-41d5-b7cf-726216005ba7.png)
 ![Снимок экрана 2021-12-05 в 06 36 47](https://user-images.githubusercontent.com/55627796/144732486-98487517-e21a-4a26-a006-f693f16f5688.png)
 ![Снимок экрана 2021-12-05 в 06 36 55](https://user-images.githubusercontent.com/55627796/144732490-522574e2-036f-4291-a27b-198e36e1bd5e.png)
-![Снимо![Снимок экрана 2021-12-05 в 06 37 16](https://user-images.githubusercontent.com/55627796/144732496-fe126b8d-fddb-49d3-ab3c-29e1a7b05109.png)
+![Снимок экрана 2021-12-05 в 06 37 16](https://user-images.githubusercontent.com/55627796/144732496-fe126b8d-fddb-49d3-ab3c-29e1a7b05109.png)
 ![Снимок экрана 2021-12-05 в 06 37 16](https://user-images.githubusercontent.com/55627796/144732523-ac9327b9-e5db-4a47-b072-b4969a44af29.png)
 ![Снимок экрана 2021-12-05 в 06 37 26](https://user-images.githubusercontent.com/55627796/144732501-885d1ce7-7eb6-4352-bdf9-29565785ddfc.png)
 
